@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gillianbien
-- 👀 I’m interested in music.
+- 👀 I’m interested in music, arts, cooking, coding, learning new things.
 - 🌱 I’m currently learning HTML, CSS and Javacript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
